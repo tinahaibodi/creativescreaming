@@ -3,7 +3,7 @@
 
 ###  screaming with colour - a p5.js experiment
 
-this is a p5js experiment that uses voices and movement to create illustrative movement with the word "tina" in a variety of colours 
+this is a p5js experiment that uses voices and movement to create illustrative movement with the word "tina" in a variety of colours. the more that you move your mouse or make noise the more the words on the screen multiply. 
 
 ### contributing tips
 fork it
