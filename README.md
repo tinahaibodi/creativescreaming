@@ -3,7 +3,7 @@
 
 ###  screaming with colour - a p5.js experiment
 
-this is a p5js experiment that uses voices and movement to create illustrative movement with the word "tina" in a variety of colours. the more that you move your mouse or make noise the more the words on the screen multiply. 
+this is a p5js experiment that uses voice detection and cursor movement to multiply content using the word "tina" in a variety of colours. movements with your cursor or making audible noise triggers the creation of words - the more the volume of these actions the more that the words appear. 
 
 ### installation guide
 when using the voice recognition aspect please note for it to fully work you need the speech recognition macoxs command line downloaded for your mac on the high sierra 10.4 (or up) os system
