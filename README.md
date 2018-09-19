@@ -5,6 +5,11 @@
 
 this is a p5js experiment that uses voices and movement to create illustrative movement with the word "tina" in a variety of colours. the more that you move your mouse or make noise the more the words on the screen multiply. 
 
+### installation guide
+when using the voice recognition aspect please note for it to fully work you need the speech recognition macoxs command line downloaded for your mac on the high sierra 10.4 (or up) system
+
+for more information about installing the client/command line see here https://pypi.org/project/SpeechRecognition/
+
 ### contributing tips
 fork it
 
