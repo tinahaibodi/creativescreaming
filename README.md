@@ -23,8 +23,6 @@ push to the branch: git push origin my-new-feature
 
 submit a pull request
 
-### demo
-
 ## demo with screaming
 
 
