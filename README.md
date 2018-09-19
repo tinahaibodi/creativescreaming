@@ -1,5 +1,5 @@
 
-## made by Tina Haibodi
+## made by tina haibodi
 
 
 ## screaming with colour - a p5.js experiment
