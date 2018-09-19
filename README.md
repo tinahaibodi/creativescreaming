@@ -8,7 +8,11 @@ this is a p5js experiment that uses voices and movement to create illustrative m
 
 ### contributing tips
 fork it
+
 create a new branch if you want - git checkout -b-new-feature
+
 commit to your changes: git commit -am 'add some feature'
+
 push to the branch: git push origin my-new-feature
+
 submit a pull request
