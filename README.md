@@ -1,11 +1,11 @@
 # creativescreaming
 a processing.js experiment that processes sound and movement as creative typographic illustration
 
-# installation
+## installation
 
 download and launch in web browser and adjust font/word usage to liking
 
-# contributing to the project
+## contributing to the project
 
 create your feature branch: git checkout -b my-new-feature
 commit your changes: git commit -am 'add new feature'
