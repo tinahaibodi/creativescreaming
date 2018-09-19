@@ -1,6 +1,7 @@
 
 ## made by tina haibodi
 
+view the live demo [here](http://creativescreaming.tinahaibodi.gitub.io/)
 
 ###  screaming with colour - a p5.js experiment
 
