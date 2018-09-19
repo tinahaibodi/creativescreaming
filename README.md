@@ -18,7 +18,12 @@ submit a pull request
 
 ### demo
 
+## demo with screaming
+
 
 ![Demo](https://raw.githubusercontent.com/tinahaibodi/creativescreaming/master/webscreen.gif)
+
+
+## demo with rapid mouse movement
 
 ![Demo](https://raw.githubusercontent.com/tinahaibodi/creativescreaming/master/webscreen2.gif)
